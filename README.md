@@ -13,9 +13,9 @@ You can search for a category by name, but doesn't support the autocomplete feat
 
 Example images:
 
-![alt tag](https://github.com/petsoukos/Opencart-Category-Name-Filter/blob/master/category_filter_ocmod_001.png)
+![Example of Opencart Category Name Filter](https://github.com/petsoukos/Opencart-Category-Name-Filter/blob/master/category_filter_ocmod_001.png)
 
-![alt tag](https://github.com/petsoukos/Opencart-Category-Name-Filter/blob/master/category_filter_ocmod_002.png)
+![Example of Opencart Category Name Filter](https://github.com/petsoukos/Opencart-Category-Name-Filter/blob/master/category_filter_ocmod_002.png)
 
 USE AT YOUR OWN RISK
 
