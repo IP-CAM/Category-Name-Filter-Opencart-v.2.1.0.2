@@ -9,6 +9,14 @@ It is a simple drop-in, just install via Extensions->Extensions Installer and re
 
 It will not replace any files, it uses the build in OCMOD system for file modifications.
 
+Example images:
+
+![alt tag](https://github.com/petsoukos/Opencart-Category-Name-Filter/blob/master/category_filter_ocmod_001.png)
+
+![alt tag](https://github.com/petsoukos/Opencart-Category-Name-Filter/blob/master/category_filter_ocmod_002.png)
+
 USE AT YOUR OWN RISK
+
 It's free.
+
 Please don't ask for support. ;)
