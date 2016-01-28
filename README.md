@@ -1,4 +1,4 @@
-# Opencart-Category-Name-Filter
+# Opencart Category Name Filter
 This is a really simple filter for the admin category page. A feature that needs to be added natively by the Opencart team.
 
 It is compatible with Opencart v2.1.0.2
