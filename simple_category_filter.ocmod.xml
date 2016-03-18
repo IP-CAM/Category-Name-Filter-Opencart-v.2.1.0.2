@@ -46,7 +46,7 @@
 			<add position="repalce"><![CDATA[$sql = "SELECT COUNT(DISTINCT c.category_id) AS total FROM " . DB_PREFIX . "category c LEFT JOIN " . DB_PREFIX . "category_description cd ON (c.category_id = cd.category_id)";
 		
 			if(!empty($data['filter_name'])) {
-				$sql .= " WHERE cd.name LIKE '" . $this->db->escape($data['filter_name']) . "%'";
+				$sql .= " WHERE cd.name LIKE '%" . $this->db->escape($data['filter_name']) . "%'";
 			}
 
 			$query = $this->db->query($sql);]]></add>
